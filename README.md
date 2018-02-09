@@ -13,3 +13,5 @@
 [Google Archive Chrome extension](https://github.com/googlearchive/devtools-extension-boilerplate)
 
 [Dominick Gendill](https://www.dgendill.com/posts/programming/2016-12-06-chrome-devtools-extension-tutorial.html)
+
+[Creating Chrome Devtools in React js](https://medium.com/@yuridrabik/create-chrome-devtools-extension-using-react-js-1b8e16e8dc72)
