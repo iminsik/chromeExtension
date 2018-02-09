@@ -7,3 +7,5 @@
 [Developer Chrome Extension APIs](https://developer.chrome.com/extensions/api_index)
 
 [Developer Chrome DevTools Extendion](https://developer.chrome.com/extensions/devtools)
+
+[Raymond's Chrome extension tutorial](https://www.raymondcamden.com/2012/07/15/How-to-add-a-panel-to-Chrome-Dev-Tools/)
