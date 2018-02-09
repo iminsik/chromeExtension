@@ -11,3 +11,5 @@
 [Raymond's Chrome extension tutorial](https://www.raymondcamden.com/2012/07/15/How-to-add-a-panel-to-Chrome-Dev-Tools/)
 
 [Google Archive Chrome extension](https://github.com/googlearchive/devtools-extension-boilerplate)
+
+[Dominick Gendill](https://www.dgendill.com/posts/programming/2016-12-06-chrome-devtools-extension-tutorial.html)
