@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Send Message to Extension",
+    "description": "I want to send a simple message to customized chrome extension",
+    "version": "1.0",
+    "content_scripts":
+    [
+        {
+            "matches": ["*://*/*"],
+            "js": ["content_script.js"]
+        }
+    ]
+}
