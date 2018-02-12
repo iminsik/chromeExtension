@@ -3,6 +3,12 @@
     "name": "Send Message to Extension",
     "description": "I want to send a simple message to customized chrome extension",
     "version": "1.0",
+    "devtools_page": "devtools.html",
+    "permissions":  [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
     "content_scripts":
     [
         {
