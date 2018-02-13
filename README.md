@@ -19,3 +19,5 @@
 [Panel Event Handlers](https://www.raymondcamden.com/2012/08/03/How-to-update-the-DOM-in-a-Chrome-Extension-Panel/)
 
 [Developing Google Chrome Extensions](https://code.tutsplus.com/tutorials/developing-google-chrome-extensions--net-33076)
+
+[Understanding Google Chrome Extensions](https://gist.github.com/jjperezaguinaga/4243341)
