@@ -15,3 +15,5 @@
 [Dominick Gendill](https://www.dgendill.com/posts/programming/2016-12-06-chrome-devtools-extension-tutorial.html)
 
 [Creating Chrome Devtools in React js](https://medium.com/@yuridrabik/create-chrome-devtools-extension-using-react-js-1b8e16e8dc72)
+
+[Panel Event Handlers](https://www.raymondcamden.com/2012/08/03/How-to-update-the-DOM-in-a-Chrome-Extension-Panel/)
