@@ -4,11 +4,18 @@
     "description": "I want to send a simple message to customized chrome extension",
     "version": "1.0",
     "devtools_page": "devtools.html",
+    "key": "MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkc4krPmuUA8d20sKS3AO72aBOrvp0A30hdJLOMzfCnUoTzX13QJuBXy6QmRlFE9wJU/m3VTPjWGge3SzqKmijK+xRXTvZAd0gjbAKulxHfePmzB6uo/NEgckiluU8gvBj4cqWKo9S5r93RrzNhDH/zexL0AXof5BSR3p8yZLZ+L2OoFF8+moKZmgx8GrOj4jttj181TMpmkX1xCdFPre0zUUSneJB6hWMb42H/shcEiFGNApfztAfDh06P7lr3L1HE8qIrc8vEto1dykgHwaJOkgqmFmXc7yUcvJIcYO2jjrsY3JlFetMMyqPCeeVlDmtiiEyr5X8NI2JSjdlJPZJAgMBAAECggEAL5I0ZcwCtqh5NMg2/OCkO9zyYJCBZrnzoo/kP73VLXjuitfwqWSJF11/TNjc1HywNAqUvBHrlqJmTDdS3NIzvq/gBpFf1KCTZO1XtWK/evbRzFvTrFVE89ZPZrAb0+tUurAAOHxLRYH2dPyDdTf+dq8M4cllTCJKj2KZ7ispTeANz//mqybi55VaF6sNebyGOCWpmNEih1itZun0SmEkyQyLT6hYyVyePbTJLWK0hpVIZr5JXgW/d6HwI9DGdGEy+G+cJ47xXCZlxyXHMiW/s2cfzXuo2gzO9aSdPEF4QLAF/0OMjxx6wHiDp7fDlDHqEqpRyiNzWjCAd4Z1MnF9GQKBgQDN7/JRlTEMHza0NcojWw2KgVRUIR/2IJeehSrKl1K/9fuWN5aRZilReQbzuWJLbm0PaFndi375vFPqUZCgudYGny6Zq60X+wXQqIxAbzvqbIttcjt40aNoMXYwBuhr6y73vWos3M11B7DYklAxQPAmNjm46TlzhwHy4irYRkYMpwKBgQDMbcz+phyFV7lqnrd0IyJ/WJZ/bhcDSZ87HrjqwlHZhZmjdLQS9k8ZOYdZlPrTK+YQALWGaFl8YSRW93izWWuzos9jYLOSMFqvAHyia2mGqpgSNiRZAxjwIV2s4bR1nWcBFG6Q0bOFFOfPpeDoswmXjMCdl7z7I+90p0ySV0CTjwKBgAiKcQRNKbGVAdHLgUyiFBewcWzjys2MYH1kjHfGetoXO43pVEdHc2M7n7wv7hGuzLsc2s1DYcq9ssU/CL6BtoyjwW0CH7Wk5YLX2qk5c8SvJ8EsQacrGpnRo1MulikToekIZATkS2kVHpJ8zvKb/Nm42f//PDC8YqpOEvTRRUp1AoGBAKTYWbhyXIdN4O9QAyD8gAHufpVNQfNdt6/lqzlq7rOYHvcG0XqE8e2mTTV4g/Yq7P60g6xZkudQMgyKy+Lb1ZRqUg+R19uncEiz/MzADr0P7UaqMA8zBzYDwdT5wBojjf756dqPrtI+tFrmKQGb9b0mO+AYjsR5CsunaICNKT6TAoGAUf14wG5yPJQ4vRW9x/SDRQ6Xu1xCyv5RCkiTfu2jXZweEFeHadpLioY1FKfSTLsDbm71d+0jQcdHGs0LdXeV5nI83k1wGfi+xsxro7kHpnigaL/exsX4IkTYL342qDpnnj73FzqGufgi7V+ETazvcWAWt3Qt5G6RlSWZALzBk6k=",
     "permissions":  [
         "tabs",
         "http://*/*",
         "https://*/*"
     ],
+    "externally_connectable": {
+      "matches": ["*://*.alaskaair.com/*"]
+    },
+    "background": {
+      "scripts": ["background.js"]
+    },
     "content_scripts":
     [
         {
