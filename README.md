@@ -21,3 +21,5 @@
 [Developing Google Chrome Extensions](https://code.tutsplus.com/tutorials/developing-google-chrome-extensions--net-33076)
 
 [Understanding Google Chrome Extensions](https://gist.github.com/jjperezaguinaga/4243341)
+
+[Understanding Panel in Chrome Extension](https://stackoverflow.com/questions/35179744/google-chrome-extension-change-devtools-panel-content)
