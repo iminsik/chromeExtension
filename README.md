@@ -22,4 +22,6 @@
 
 [Understanding Google Chrome Extensions](https://gist.github.com/jjperezaguinaga/4243341)
 
-[Understanding Panel in Chrome Extension](https://stackoverflow.com/questions/35179744/google-chrome-extension-change-devtools-panel-content)
+[Stackoverflow: Understanding Panel in Chrome Extension](https://stackoverflow.com/questions/35179744/google-chrome-extension-change-devtools-panel-content)
+
+[Stackoverflow: Updating panel](https://stackoverflow.com/questions/11624307/how-to-modify-content-under-a-devtools-panel-in-a-chrome-extension)
