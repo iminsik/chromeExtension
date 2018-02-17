@@ -27,3 +27,5 @@
 [Stackoverflow: Updating panel](https://stackoverflow.com/questions/11624307/how-to-modify-content-under-a-devtools-panel-in-a-chrome-extension)
 
 [Chrome Extension Messaging](https://thomasboyt.github.io/2014/10/06/chrome-message-workaround.html)
+
+[Isolated worlds in Chrome extension scripts](https://developer.chrome.com/extensions/content_scripts#pi)
