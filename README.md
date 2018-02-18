@@ -31,3 +31,5 @@
 [Isolated worlds in Chrome extension scripts](https://developer.chrome.com/extensions/content_scripts#pi)
 
 [Sending Message from web page to extension](https://stackoverflow.com/questions/11431337/sending-message-to-chrome-extension-from-a-web-page)
+
+[Chrome devpanel extension communication with background](https://stackoverflow.com/questions/11661613/chrome-devpanel-extension-communicating-with-background-page)
