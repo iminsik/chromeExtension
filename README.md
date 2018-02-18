@@ -29,3 +29,5 @@
 [Chrome Extension Messaging](https://thomasboyt.github.io/2014/10/06/chrome-message-workaround.html)
 
 [Isolated worlds in Chrome extension scripts](https://developer.chrome.com/extensions/content_scripts#pi)
+
+[Sending Message from web page to extension](https://stackoverflow.com/questions/11431337/sending-message-to-chrome-extension-from-a-web-page)
